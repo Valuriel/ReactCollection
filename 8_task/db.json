@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "firstname": "Christian",
+      "lastname": "Pötter",
+      "phonenumber": "666666",
+      "message": "Waiting for Cyberpunk 2077!",
+      "role": "student"
+    },
+    {
+      "firstname": "sadasd",
+      "lastname": "asdasd",
+      "phonenumber": "asdasd",
+      "message": "asdasd",
+      "role": "",
+      "id": 2
+    },
+    {
+      "firstname": "sdasd",
+      "lastname": "asdagfh",
+      "phonenumber": "fghfghfgh",
+      "message": "dfasdf",
+      "role": "teacher",
+      "id": 3
+    }
+  ]
+}
